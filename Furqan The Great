@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<title>
+Furqan The Great
+</title>
+<style type="text/css">
+body {background-color: cyan}
+h1 {text-align: center; color: darkblue; text-transform: uppercase; font-size: xx-large; font-family: Algerian; border-style:double; border-width:6px; border-color: darkred}
+hr {margin-left: 150px; margin-right: 150px; border-width: 8px; border-style: dashed; border-color: black}
+p {color: red; font-family: Georgia; font-size: x-large; border-color: greenyellow; border-style: groove; border-width: 4px}
+</style>
+</head>
+<body>
+<h1>
+Furqan The Great
+</h1>
+<hr>
+<p>
+<b>
+<i>
+Me________________________=________________________Lion
+</i>
+</b>
+</p>
+<br><br><br><br>
+<center>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Lion_waiting_in_Namibia.jpg/1200px-Lion_waiting_in_Namibia.jpg"
+alt="https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FLion&psig=AOvVaw3vCxfOvRn1IVUEbTyYTMNg&ust=1670677688797000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCJDkw8PN7PsCFQAAAAAdAAAAABAE"
+width="600"
+height="600">
+</center>
+</body>
+</html>
